@@ -1,0 +1,17 @@
+ {
+    "name": "Buy X get Y",
+    "settings": [
+      {
+        "type": "product",
+        "id": "customer_buys",
+        "label": "Customer buys"
+      },
+            {
+        "type": "product",
+        "id": "customer_gets",
+        "label": "Customer gets"
+      }
+    ]
+  }
+
+add above settings in theme settings and assign products as per discounts added
