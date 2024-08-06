@@ -6,3 +6,8 @@
 
 # update the theme files with my code
 
+# Store View :- https://research-developments.myshopify.com/products/copy-of-product-name-7?_pos=7&_psq=prod&_ss=e&_v=1.0
+
+
+# Support Email: ecommerce.web.expert@gmail.com
+
